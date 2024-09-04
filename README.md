@@ -20,7 +20,7 @@ The GNB Twitter Bot automatically fetches the latest news headlines from the New
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/nikhilwankhedethecoder/gnbmedia-twitterbot.git
    cd <repository_directory>
    ```
 
