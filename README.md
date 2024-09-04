@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [GNB](www.x.com/gnbmedia) Twitter Bot automatically fetches the latest news headlines from the NewsAPI and tweets them on Twitter. It ensures no duplicate tweets are posted, logs all activities, handles errors, and sends email notifications for successful tweets and errors. The bot is designed to run every hour, making sure the latest news is always tweeted.
+The [GNB](https://x.com/gnbnewsnetwork) Twitter Bot automatically fetches the latest news headlines from the NewsAPI and tweets them on Twitter. It ensures no duplicate tweets are posted, logs all activities, handles errors, and sends email notifications for successful tweets and errors. The bot is designed to run every hour, making sure the latest news is always tweeted.
 
 ## Features
 
